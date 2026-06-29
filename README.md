@@ -1,6 +1,6 @@
 # Alejandro Macias
 
-## Skills
+# Skills
 
 - Heuristics engineering for the uprising development based on user-friendly configuration for the development of productivity as code
 - Creation of multi-state of the art setups for agentic application hosting
